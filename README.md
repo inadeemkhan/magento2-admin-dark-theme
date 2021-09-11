@@ -1,4 +1,4 @@
-# magento2-admin-theme-master
+# Magento2 Admin Theme
 
 Free Magento 2 Admin Theme with Enhanced Color Scheme | Nadeem Khan
 
